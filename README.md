@@ -3,7 +3,11 @@
 Esse aplicativo foi desenvolvido para o meu sobrinho que se chama Josué.
 Ele estava doido querendo uma Alexa, mas a "bixinha" é muito cara. Então a "fiz".
 
-O aplicativo em si não chega nem ao pés de uma Alexa, mas ele amou e está se divertindo muito.
+O aplicativo em si não chega nem aos pés de uma Alexa, mas ele amou e está se divertindo muito.
+
+## Prévia
+
+https://github.com/daniel-rodrigues1089/alexagp/assets/117450018/06b0755a-e45f-430c-abfd-69a889a935ba
 
 ## Features 
 
